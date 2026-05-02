@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 public class Main {
+=======
+class Main {
+>>>>>>> 66fb822 (updated and to add new code)
     public static void main(String[] args) {
         Locker var1 = new Locker();
         var1.checkStatus();
