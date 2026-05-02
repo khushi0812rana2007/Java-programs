@@ -1,4 +1,4 @@
-class Ques3 {
+class Q13 {
      public static void main(String[] args) {
         int n = 999;   
          int sum = 0;

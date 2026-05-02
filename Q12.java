@@ -1,4 +1,4 @@
- class Ques2 {
+ class Q12 {
     public static void main(String[] args) {
         int total = 10;
            for (int i = 1; i <= 50; i++) {

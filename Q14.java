@@ -1,4 +1,4 @@
-public class Ques4 {
+public class Q14 {
      public static void main(String[] args) {
         int n = 100;   
         int product = 1;

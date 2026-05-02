@@ -1,4 +1,4 @@
-class Ques7 {
+class Q17 {
     public static void main(String[] args) {
         int n = 50;   
         int count = 0;
