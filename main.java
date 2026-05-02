@@ -1,4 +1,4 @@
-public class main {
+class Main {
     public static void main(String[] args) {
         Locker var1 = new Locker();
         var1.checkStatus();
