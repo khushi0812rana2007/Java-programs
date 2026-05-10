@@ -10,7 +10,6 @@ class Fax implements Printer {
     public void Printing() {
         System.out.println("Four Fax");
     }
-
     public static void main(String[] args) {
         Scanner s = new Scanner();
         Fax f = new Fax();
